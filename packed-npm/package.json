@@ -1,0 +1,6 @@
+{
+  "name": "unsubscribe-ondestroy",
+  "version": "0.0.0",
+  "author": "Adam Genshaft",
+  "main": "on-destroy-unsubscribe.decorator.js"
+}
