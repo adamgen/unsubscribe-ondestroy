@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "package-source/**.js": true,
+        "package-source/**.js.map": true
+    }
+}

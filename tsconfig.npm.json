@@ -3,7 +3,6 @@
     "module": "commonjs",
     "removeComments": true,
     "preserveConstEnums": true,
-    "outDir": "packed-npm",
     "sourceMap": true,
     "lib": [
       "es2018",
@@ -12,5 +11,5 @@
   },
   "declarationMap": true,
   "experimentalDecorators": true,
-  "files": ["src/app/on-destroy-unsubscribe.decorator.ts"]
+  "files": ["package-source/on-destroy-unsubscribe.decorator.ts"]
 }

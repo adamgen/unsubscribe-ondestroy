@@ -1,6 +1,6 @@
-import { TestBed, async, ComponentFixture } from '@angular/core/testing';
-import { AppComponent } from './app.component';
-import { TempComponent } from './temp/temp.component';
+import { TestBed, ComponentFixture } from '@angular/core/testing';
+import { AppComponent } from '../src/app/app.component';
+import { TempComponent } from '../src/app/temp/temp.component';
 import { ComponentRef } from '@angular/core';
 
 describe('OnDestroy unsubscribe decorator', () => {

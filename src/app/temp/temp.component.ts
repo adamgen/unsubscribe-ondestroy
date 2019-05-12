@@ -1,5 +1,5 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
-import { OnDestroyUnsubscribe } from '../on-destroy-unsubscribe.decorator';
+import { OnDestroyUnsubscribe } from '../../../package-source/on-destroy-unsubscribe.decorator';
 import { Observable, interval } from 'rxjs';
 
 @Component({
